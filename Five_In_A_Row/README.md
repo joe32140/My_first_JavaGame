@@ -19,9 +19,10 @@ Create a frame and pull the game's panel in, then run it in the main method.
 This should include command line arguments (if any), appropriate responses to any prompts, and instructions for using your GUI.
 
 Instructions:
-    dir (Windows) / Desktop  (Press Enter)
-    javac Project3_* .java  (Press Enter) 
-    java  Project3_*   (Follow the text on the GUI)
+
+>dir (Windows) / Desktop  (Press Enter)
+javac Project3_* .java  (Press Enter) 
+java  Project3_*   (Follow the text on the GUI)
 
 ##5. Instructions describing how to play your game.
 
