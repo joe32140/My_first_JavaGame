@@ -20,8 +20,8 @@ This should include command line arguments (if any), appropriate responses to an
 
 Instructions:
 
-    dir (Windows) / Desktop  (Press Enter) \
-    javac Project3_* .java  (Press Enter) \
+    dir (Windows) / Desktop  (Press Enter) 
+    javac Project3_* .java  (Press Enter) 
     java  Project3_*   (Follow the text on the GUI)
 
 ##5. Instructions describing how to play your game.
